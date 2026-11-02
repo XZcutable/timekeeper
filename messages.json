@@ -3,6 +3,7 @@
     {
       "id": "2026-11-welcome",
       "date": "2026-11-02",
+      "expires": "2026-11-07",
       "title": "Messages are here!",
       "body": "News about TimeKeeper, like new features and holiday Tenmas, will show up here. Tap the bell at the top any time to read past messages.",
       "minVersion": "1.4"
